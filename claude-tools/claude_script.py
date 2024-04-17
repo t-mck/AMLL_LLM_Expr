@@ -11,14 +11,14 @@ import yaml
 class Claude:
     def __init__(self, SESSION_KEY):
         self.client = claude_client.ClaudeClient(SESSION_KEY)
-        self.organizations = self.client.get_organizations()
-        self.claude_obj = claude_wrapper.ClaudeWrapper(self.client, organization_uuid=self.organizations[0]['uuid'])
+        self.organization_uuid = self.client.get_organizations()[0]['uuid']
+        self.claude_obj = claude_wrapper.ClaudeWrapper(self.client, self.organization_uuid)
         self.response_dict = None
 
 
-    def run_new_query(self, QUERY):
+    def run_new_query(self, QUERY, MODEL="claude-3-opus-20240229"):
 
-        new_conversation_data = self.claude_obj.start_new_conversation("New Conversation", QUERY)
+        new_conversation_data = self.claude_obj.start_new_conversation("New Conversation", QUERY, model=MODEL)
         print(new_conversation_data)
         if new_conversation_data is None:
             return {'response':'None'}
@@ -58,8 +58,7 @@ if __name__ == "__main__":
 
     ##### placeholder for query input
     QUERY_DICT = {
-        1: 'Hello Claude',
-        2: 'Hi Claude'
+        1: 'Use the chain rule to find the indicated partial derivatives dw/dr and dw/dtheta, where w=xy+yz+zx, x=r* cos(theta), y = r*sin(theta), z = r*theta, when r=2, theta = pi/2'
     }
 
     claude = Claude(SESSION_KEY)
