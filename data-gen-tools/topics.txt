@@ -1,0 +1,40 @@
+######################################
+### Current Problem Types & Topics ###
+######################################
+(- means not done, + means done)
+Grade school Math
+	- Simple addition and subtraction
+	- Simple division
+	- Simplfy fractions
+Algebra
+	- Solve for a varible
+	- Sequences
+	- Factorization
+	- System of equations
+Pre-Calc
+	- Complex numbers
+	- Trig functions
+	- Inverse functions
+Calc 1&2
+	- limits
+	- Derivatives
+	- Chain rule
+	- Integration
+	- Series
+Calc 3
+	- Partial Derivative
+	- Multiple integrals
+	- Multivariable integrals
+	- Dot product
+	- Cross product
+Linear Algebra
+	- Eigenvalues and vectors
+	- Determinants
+	- Linear independance
+	- Singular value decomposistion
+	- Linear equations
+	- Matrix inversion
+	- Orthogonal Matricies
+	- Matrix multiplication
+probability (grade school level)
+
