@@ -1,0 +1,3104 @@
+{
+    "annotations": [
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from 0 to 1",
+            "integral_result": "-12"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -inf to 10",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -10 to 1",
+            "integral_result": "-32329/6\u2248-5388.2"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from -1 to 0",
+            "integral_result": "7"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 0",
+            "integral_result": "6750"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from 0 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -1 to 0",
+            "integral_result": "71/12\u22485.9167"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -1 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 10",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from 0 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from 0 to 1",
+            "integral_result": "31/4"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -10 to 10",
+            "integral_result": "-16000/3\u2248-5333.3"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 1",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from 0 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 10",
+            "integral_result": "1/98 (308 + 21 log(701/8) - 4 sqrt(7) (\u03c0 - tan^(-1)((11 sqrt(7))/69)))\u22483.8052"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 1",
+            "integral_result": "10/3\u22483.3333"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 10",
+            "integral_result": "-20360/3\u2248-6786.7"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 1",
+            "integral_result": "31/6\u22485.1667"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 0",
+            "integral_result": "6750"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -10 to 10",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -inf to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 2*x^3 + 5*x^0 - 2*x^2 + 8*x^1 - 7*x^2 + 8*x^2 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to 1",
+            "integral_result": "2/3\u22480.66667"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -1 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to 0",
+            "integral_result": "9200"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from 0 to 1",
+            "integral_result": "295/132\u22482.2348"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -10 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -10 to 1",
+            "integral_result": "7733/3\u22482577.7"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0",
+            "integral_result": "-49/3\u2248-16.333"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from 0 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -1 to 0",
+            "integral_result": "-4/3\u2248-1.3333"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -10 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -inf to 10",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 0",
+            "integral_result": "-86590/3\u2248-28863."
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from 0 to 1",
+            "integral_result": "-79/12\u2248-6.5833"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to 10",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to 10",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to 0",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from 0 to 1",
+            "integral_result": "-6"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 5*x^1 + 4*x^1 from -inf to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -1 to 1",
+            "integral_result": "2/3\u22480.66667"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -1 to 1",
+            "integral_result": "-22"
+        },
+        {
+            "prompt": "integral 2*x^3 + 5*x^0 - 2*x^2 + 8*x^1 - 7*x^2 + 8*x^2 from -1 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -1 to 1",
+            "integral_result": "4/3 - (5 log(5))/8 + (5 log(19))/8 - (59 tan^(-1)(1/sqrt(79)))/(4 sqrt(79)) - (59 tan^(-1)(15/sqrt(79)))/(4 sqrt(79))\u22480.2627"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -1 to 1",
+            "integral_result": "-32/3\u2248-10.667"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from 0 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -1 to 10",
+            "integral_result": "7513/3\u22482504.3"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to inf",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 0",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -1 to inf",
+            "integral_result": ""
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from 0 to 0",
+            "integral_result": "0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from 0 to 1",
+            "integral_result": "-10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -inf to 1",
+            "integral_result": "(integral does not converge)"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from 0 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 3*x^1 - 2*x^2 - 3*x^2 + 8*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -inf to inf"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 2*x^3 + 5*x^0 - 2*x^2 + 8*x^1 - 7*x^2 + 8*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -10 to 0"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 5*x^1 + 4*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 5*x^1 + 4*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 3*x^1 - 2*x^2 - 3*x^2 + 8*x^1 - 1*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^3 + 6*x^2 - 2*x^3 + 5*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -inf to 0"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral 2*x^3 + 5*x^0 - 2*x^2 + 8*x^1 - 7*x^2 + 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 - 1*x^2 - 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -1 to inf"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^3 + 6*x^2 - 2*x^3 + 5*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from 0 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^3 + 6*x^2 - 2*x^3 + 5*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^1 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from 0 to inf"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 3*x^1 - 2*x^2 - 3*x^2 + 8*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^3 + 6*x^2 - 2*x^3 + 5*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^3 + 5*x^0 - 2*x^2 + 8*x^1 - 7*x^2 + 8*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 3*x^1 - 2*x^2 - 3*x^2 + 8*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -1 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 - 1*x^2 - 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 8*x^1 + 3*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 1*x^2 + 7*x^2 - 7*x^2 + 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from 0 to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -10 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 - ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^1 - 4*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -inf to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 3*x^1 - 7*x^2 + 7*x^3 + 7*x^2 + 8*x^2 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 1*x^1 + 4*x^1 + 1*x^2 - 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 1*x^0 + 2*x^0 + 5*x^1 - 8*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 5*x^1 - 4*x^3 from -inf to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 5*x^1 + 4*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -inf to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from 0 to 1"
+        },
+        {
+            "prompt": "integral ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) + 5*x^1 + 4*x^1 - ((3*x^1 + 8*x^1)/(2*x^0 + 8*x^2 + 7*x^3)) + 3*x^1 + 8*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^0 - 6*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -inf to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -10 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 - 7*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 + 8*x^1 + 3*x^1 + 8*x^1 - 1*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^1 - 6*x^0 - ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 2*x^2 + 8*x^1 - 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 - 8*x^1 - 1*x^1 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - 6*x^2 + 1*x^2 - 2*x^1 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 + 5*x^1 + 4*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 7*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -1 to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 8*x^1 + 3*x^1 - ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -10 to 0"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 1*x^0 + 2*x^0 + 5*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 - 7*x^2 - 8*x^2 + 2*x^2 + 8*x^2 - 6*x^0 + 5*x^1 - 4*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + 7*x^2 - 7*x^3 + ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 4*x^3 + 8*x^1 + 7*x^2 + 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 6*x^2 + 2*x^0 - 6*x^2 - 2*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - 6*x^0 + 5*x^0 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 + 1*x^2 + 7*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from 0 to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 5*x^2 + 7*x^2 - 3*x^2 - 8*x^1 + 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from 0 to 0"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 7*x^2 + 8*x^2 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -10 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 + 8*x^1 - 2*x^2 + 8*x^1 + 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -10 to 10"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 8*x^2 - 5*x^0 - 6*x^2 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) from -inf to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 - 5*x^1 + 4*x^1 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + 1*x^2 - 8*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 + 8*x^1 + 3*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 - 2*x^2 + 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from 0 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 2*x^3 + 2*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 + 8*x^1 - 1*x^1 - 7*x^2 + 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 - 3*x^1 - 6*x^1 - 8*x^1 - 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -10 to 1"
+        },
+        {
+            "prompt": "integral 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 + 7*x^2 - 7*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from 0 to inf"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 + 6*x^0 + 5*x^0 from 0 to 1"
+        },
+        {
+            "prompt": "integral 7*x^3 + 3*x^0 + 8*x^3 + 6*x^0 - 8*x^2 - 6*x^0 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 + 7*x^2 + 8*x^2 + ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) + 5*x^1 - 4*x^3 from -1 to 0"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 + 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -inf to 0"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 4*x^3 + 6*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - ((2*x^0 + 8*x^2 + 7*x^3)/(3*x^1 + 3*x^1 - 7*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 + 3*x^1 - 2*x^2 - 3*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 1*x^2 + 7*x^2 from -10 to 1"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from -inf to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) + 3*x^1 - 2*x^2 - 3*x^2 + 8*x^1 - 1*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -10 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 1*x^1 - 6*x^0 - 6*x^1 + 3*x^1 + 8*x^2 + 4*x^0 - 1*x^1 - 6*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from 0 to 0"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 1*x^0 + 2*x^0 + 5*x^1 + 3*x^1 + 3*x^1 - 7*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^2 - 6*x^0 from 0 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) - 7*x^2 + 8*x^2 from -10 to 0"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -1 to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 - 1*x^1 + 4*x^3 + 6*x^2 + 3*x^1 - 8*x^3 + 2*x^3 - 6*x^0 - ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 + 8*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral 3*x^1 - 6*x^1 - 8*x^1 + 8*x^1 + 3*x^1 + 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 - 6*x^0 + 5*x^0 from -inf to 10"
+        },
+        {
+            "prompt": "integral 1*x^2 + 7*x^2 + 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 - 7*x^3 + 7*x^2 + 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) - ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to inf"
+        },
+        {
+            "prompt": "integral 8*x^3 + 2*x^2 + 1*x^2 + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) from -10 to 0"
+        },
+        {
+            "prompt": "integral ((4*x^1 - 8*x^1 - 1*x^2 - 8*x^2)/(6*x^2 - 4*x^0 + 5*x^2)) - ((7*x^1 + 2*x^3 + 6*x^1)/(8*x^1 + 2*x^0 + 1*x^2)) + ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) - 5*x^1 - 4*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 - 2*x^2 + 8*x^2 - 6*x^0 + ((7*x^3 - 8*x^3 + 5*x^1 - 6*x^2)/(8*x^1 + 2*x^3 - 3*x^1 - 7*x^0)) - 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from -1 to 1"
+        },
+        {
+            "prompt": "integral 1*x^1 + 4*x^1 + 8*x^1 - 1*x^1 - 2*x^2 + 8*x^2 - 6*x^0 from -1 to 10"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 - ((7*x^2 - 2*x^3 + 2*x^0)/(8*x^2 - 1*x^2)) from 0 to 10"
+        },
+        {
+            "prompt": "integral 4*x^1 - 8*x^1 - 1*x^2 - 8*x^2 + 8*x^3 + 2*x^2 + 1*x^2 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) + 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 - 1*x^1 + 4*x^1 - 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 from -inf to 1"
+        },
+        {
+            "prompt": "integral 7*x^3 + 7*x^2 + 8*x^2 + 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 from 0 to 1"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -1 to 10"
+        },
+        {
+            "prompt": "integral 4*x^3 + 6*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 + 1*x^1 + 4*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 - 3*x^1 + 3*x^1 - 7*x^2 + 8*x^1 + 3*x^1 from -10 to 10"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^1 - ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) from -inf to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^2 + 8*x^1 - 1*x^1 + 1*x^2 - 8*x^2 - 3*x^1 + 3*x^1 - 7*x^2 from -inf to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 - 8*x^2 + 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 + ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) from -inf to inf"
+        },
+        {
+            "prompt": "integral 8*x^2 - 7*x^1 + 5*x^1 - 4*x^3 + 8*x^3 + 5*x^0 + 3*x^1 - 1*x^1 from 0 to 1"
+        },
+        {
+            "prompt": "integral ((8*x^2 + 3*x^1 - 8*x^2 + 2*x^2)/(1*x^0 + 7*x^2)) + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 - ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) - 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^2 - 2*x^2 - 6*x^2 - 6*x^2 from -inf to inf"
+        },
+        {
+            "prompt": "integral 2*x^2 + 8*x^2 - 6*x^0 + ((3*x^1 - 8*x^3 + 2*x^3 - 6*x^0)/(6*x^2 - 3*x^1 - 3*x^2 - 7*x^2)) from -10 to 10"
+        },
+        {
+            "prompt": "integral 5*x^1 + 4*x^1 + 3*x^1 + 3*x^1 - 7*x^2 - 5*x^1 - 6*x^0 - 3*x^2 + 8*x^3 from -inf to 1"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from -1 to 10"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^0 - 6*x^2 - 8*x^1 + 3*x^1 + 8*x^2 - 6*x^0 from -inf to 0"
+        },
+        {
+            "prompt": "integral 8*x^2 - 5*x^3 + 8*x^1 + 5*x^1 - ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 3*x^1 - 6*x^1 - 8*x^1 from -10 to 0"
+        },
+        {
+            "prompt": "integral 5*x^1 - 4*x^3 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -1 to 0"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from -1 to 10"
+        },
+        {
+            "prompt": "integral 7*x^2 + 8*x^3 - 8*x^2 + 6*x^2 + 7*x^2 - 7*x^3 + ((1*x^1 + 3*x^1)/(5*x^1 - 8*x^3)) from -inf to 1"
+        },
+        {
+            "prompt": "integral 8*x^1 + 3*x^1 - ((1*x^2 - 1*x^1 - 8*x^2)/(7*x^2 + 8*x^3 - 8*x^2 + 6*x^2)) + 7*x^2 - 2*x^3 + 2*x^0 from -1 to 1"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 + 2*x^2 + 8*x^2 - 6*x^0 - 8*x^1 - 1*x^1 from -1 to inf"
+        },
+        {
+            "prompt": "integral ((3*x^1 + 4*x^0 - 8*x^2)/(3*x^0 + 7*x^0)) + 8*x^1 + 3*x^1 + ((3*x^1 - 2*x^2 - 3*x^2)/(4*x^3 + 8*x^1 + 7*x^2)) - 1*x^2 - 8*x^2 from 0 to inf"
+        },
+        {
+            "prompt": "integral 7*x^2 - 7*x^3 - 1*x^2 - 8*x^2 - 4*x^3 + 5*x^2 + 7*x^3 - 1*x^1 from 0 to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 2*x^2 - 1*x^1 - 5*x^2 + 5*x^2 + 2*x^1 + 2*x^2 - 3*x^1 + 8*x^1 + 3*x^1 + 2*x^2 + 8*x^2 - 6*x^0 from -inf to inf"
+        },
+        {
+            "prompt": "integral 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 - 7*x^2 + 6*x^0 + 4*x^3 - 4*x^1 - 8*x^3 + 2*x^2 + 1*x^2 - 8*x^2 + 3*x^1 - 8*x^2 + 2*x^2 from 0 to 1"
+        },
+        {
+            "prompt": "integral 1*x^2 + 5*x^1 - 7*x^1 + 6*x^0 + ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 1*x^2 - 8*x^2 from -1 to 0"
+        },
+        {
+            "prompt": "integral ((2*x^3 - 8*x^3)/(3*x^1 - 6*x^1 - 8*x^1)) + 4*x^0 + 6*x^2 + 2*x^3 - 7*x^1 from 0 to 10"
+        },
+        {
+            "prompt": "integral ((2*x^2 + 8*x^1)/(2*x^2 + 8*x^2 - 6*x^0)) + 1*x^1 + 4*x^1 + ((4*x^3 - 8*x^2 - 4*x^3 + 2*x^3)/(8*x^2 - 5*x^3 + 8*x^1 + 5*x^1)) from -10 to 1"
+        },
+        {
+            "prompt": "integral 4*x^3 - 8*x^2 - 4*x^3 + 2*x^3 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 + 3*x^1 - 7*x^2 - 3*x^1 - 2*x^2 - 3*x^2 from -1 to 0"
+        }
+    ]
+}
