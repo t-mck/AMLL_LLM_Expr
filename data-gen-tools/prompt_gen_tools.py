@@ -9,7 +9,7 @@ from scipy.stats import linregress
 import copy
 import json
 
-np.random.seed(19960806)
+np.random.seed(2024)
 
 ##############################################################################
 #################################### Funcs ###################################
@@ -138,11 +138,18 @@ def eq_solve(n=1, bodies=['x'], num_vars=1):
             rets[-1] += '%s = %s'%(left[j], right[j])
     return rets
 
-def combine_bodies(body1, body2, ops=['+','-']):
+def combine_bodies(body1, body2, ops=['+','-'], include_con=False):
     rets = []
     for i in range(len(body1)):
         op = np.random.choice(ops)
-        rets.append('%s %s %s'%(body1[i], op, body2[i]))
+        body = '%s %s %s'%(body1[i], op, body2[i])
+        
+        if(include_con):
+            op = np.random.choice(ops)
+            con = np.random.choice(['1', '2', '3', '4', '5', '6', '7', '8', '9'])
+            body += ' %s %s'%(op, con) 
+
+        rets.append(body)
     return rets
     
 

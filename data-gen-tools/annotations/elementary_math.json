@@ -1,0 +1,88 @@
+{
+    "annotations": [
+        {
+            "prompt": "Find 16 - 10",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 18 + 4",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 12 + 12",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 18 * 9",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 12 * 10",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 19 - 4",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 18 - 11",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 20 * 4",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 15 - 17",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Find 2 + 18",
+            "type": "simple operations"
+        },
+        {
+            "prompt": "Simplify the fraction 95/13",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 97/93",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 37/3",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 63/91",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 87/75",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 92/34",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 88/36",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 50/68",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 65/80",
+            "type": "fractions"
+        },
+        {
+            "prompt": "Simplify the fraction 48/12",
+            "type": "fractions"
+        }
+    ],
+    "prompt types": [
+        "simple operations",
+        "fractions"
+    ]
+}

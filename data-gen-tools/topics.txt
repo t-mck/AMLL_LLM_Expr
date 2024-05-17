@@ -3,23 +3,22 @@
 ######################################
 (- means not done, + means done)
 Grade school Math
-	- Simple addition and subtraction
-	- Simple division
-	- Simplfy fractions
+	+ Simple addition and subtraction
+	+ Simple division
+	+ Simplfy fractions
 Algebra
-	- Solve for a varible
-	- Sequences
-	- Factorization
-	- System of equations
+	+ Solve for a varible
+	+ Factorization
+	+ System of equations
 Pre-Calc
 	- Complex numbers
 	- Trig functions
 	- Inverse functions
 Calc 1&2
 	- limits
-	- Derivatives
+	+ Derivatives
 	- Chain rule
-	- Integration
+	+ Integration
 	- Series
 Calc 3
 	- Partial Derivative
