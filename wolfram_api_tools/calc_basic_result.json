@@ -1,0 +1,224 @@
+{
+    "annotations": [
+        {
+            "prompt": "Solve for x: 1*x^1 + 6*x^2 - 5 = 4*x^1 + 1*x^2 - 7",
+            "type": "Solve for x:",
+            "result": "['x = 1/10 (3 - i sqrt(31))', 'x = 1/10 (3 + i sqrt(31))']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 1*x^3 - 4*x^2 + 1 = 1*x^1 + 6*x^2 + 4",
+            "type": "Solve for x:",
+            "result": "['x = 1/3 (10 + (2171/2 - (3 sqrt(38037))/2)^(1/3) + (1/2 (2171 + 3 sqrt(38037)))^(1/3))', 'x = 10/3 - 1/6 (1 - i sqrt(3)) (2171/2 - (3 sqrt(38037))/2)^(1/3) - 1/6 (1 + i sqrt(3)) (1/2 (2171 + 3 sqrt(38037)))^(1/3)', 'x = 10/3 - 1/6 (1 + i sqrt(3)) (2171/2 - (3 sqrt(38037))/2)^(1/3) - 1/6 (1 - i sqrt(3)) (1/2 (2171 + 3 sqrt(38037)))^(1/3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 2*x^2 - 5*x^1 + 2 = 2*x^3 - 5*x^3 - 2",
+            "type": "Solve for x:",
+            "result": "['x = 1/9 (-2 - 49/(629 - 18 sqrt(858))^(1/3) - (629 - 18 sqrt(858))^(1/3))', 'x = -2/9 + (49 (1 - i sqrt(3)))/(18 (629 - 18 sqrt(858))^(1/3)) + 1/18 (1 + i sqrt(3)) (629 - 18 sqrt(858))^(1/3)', 'x = -2/9 + (49 (1 + i sqrt(3)))/(18 (629 - 18 sqrt(858))^(1/3)) + 1/18 (1 - i sqrt(3)) (629 - 18 sqrt(858))^(1/3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 4*x^1 + 6*x^1 + 6 = 1*x^3 - 4*x^2 + 9",
+            "type": "Solve for x:",
+            "result": "['x = 4/3 - (23 (1 + i sqrt(3)))/(3 (1/2 (407 + 3 i sqrt(24855)))^(1/3)) - 1/6 (1 - i sqrt(3)) (1/2 (407 + 3 i sqrt(24855)))^(1/3)', 'x = 4/3 - (23 (1 - i sqrt(3)))/(3 (1/2 (407 + 3 i sqrt(24855)))^(1/3)) - 1/6 (1 + i sqrt(3)) (1/2 (407 + 3 i sqrt(24855)))^(1/3)', 'x = 1/3 (4 + 46/(1/2 (407 + 3 i sqrt(24855)))^(1/3) + (1/2 (407 + 3 i sqrt(24855)))^(1/3))']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 6*x^3 + 2*x^2 - 3 = 2*x^1 + 5*x^1 - 2",
+            "type": "Solve for x:",
+            "result": "['x = 1', 'x = 1/6 (-4 - sqrt(10))', 'x = 1/6 (sqrt(10) - 4)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 6*x^1 - 7*x^2 + 7 = 1*x^3 - 3*x^3 - 2",
+            "type": "Solve for x:",
+            "result": "['x = 1/6 (7 - 13/(521 - 18 sqrt(831))^(1/3) - (521 - 18 sqrt(831))^(1/3))', 'x = 7/6 + (13 (1 - i sqrt(3)))/(12 (521 - 18 sqrt(831))^(1/3)) + 1/12 (1 + i sqrt(3)) (521 - 18 sqrt(831))^(1/3)', 'x = 7/6 + (13 (1 + i sqrt(3)))/(12 (521 - 18 sqrt(831))^(1/3)) + 1/12 (1 - i sqrt(3)) (521 - 18 sqrt(831))^(1/3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 1*x^1 + 1*x^2 - 3 = 8*x^1 + 5*x^1 + 3",
+            "type": "Solve for x:",
+            "result": "['x = 6 - sqrt(42)', 'x = 6 + sqrt(42)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 8*x^2 - 7*x^2 + 1 = 2*x^3 + 3*x^3 - 7",
+            "type": "Solve for x:",
+            "result": "['x = 1/15 (1 + (2701 - 30 sqrt(8106))^(1/3) + (2701 + 30 sqrt(8106))^(1/3))', 'x = 1/15 - 1/30 (1 - i sqrt(3)) (2701 - 30 sqrt(8106))^(1/3) - 1/30 (1 + i sqrt(3)) (2701 + 30 sqrt(8106))^(1/3)', 'x = 1/15 - 1/30 (1 + i sqrt(3)) (2701 - 30 sqrt(8106))^(1/3) - 1/30 (1 - i sqrt(3)) (2701 + 30 sqrt(8106))^(1/3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 1*x^3 + 8*x^3 - 2 = 3*x^2 - 8*x^3 - 7",
+            "type": "Solve for x:",
+            "result": "['x = 1/17 (1 - (2/(1443 - 17 sqrt(7205)))^(1/3) - (1/2 (1443 - 17 sqrt(7205)))^(1/3))', 'x = 1/17 + 1/34 (1 + i sqrt(3)) (1/2 (1443 - 17 sqrt(7205)))^(1/3) + (1 - i sqrt(3))/(17 2^(2/3) (1443 - 17 sqrt(7205))^(1/3))', 'x = 1/17 + 1/34 (1 - i sqrt(3)) (1/2 (1443 - 17 sqrt(7205)))^(1/3) + (1 + i sqrt(3))/(17 2^(2/3) (1443 - 17 sqrt(7205))^(1/3))']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Solve for x: 7*x^1 + 2*x^1 - 1 = 3*x^2 - 7*x^3 + 6",
+            "type": "Solve for x:",
+            "result": "['x = 1/7 (1 - 20/(141 + 7 sqrt(569))^(1/3) + (141 + 7 sqrt(569))^(1/3))', 'x = 1/14 (2 + (20 (1 - i sqrt(3)))/(141 + 7 sqrt(569))^(1/3) + (-1 - i sqrt(3)) (141 + 7 sqrt(569))^(1/3))', 'x = 1/14 (2 + (20 (1 + i sqrt(3)))/(141 + 7 sqrt(569))^(1/3) + i (sqrt(3) + i) (141 + 7 sqrt(569))^(1/3))']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 3*x^1 + 1*x^2 + 5",
+            "type": "Factor eq",
+            "result": "['1/4 (-2 i x + sqrt(11) - 3 i) (2 i x + sqrt(11) + 3 i)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 6*x^1 - 1*x^2 - 6",
+            "type": "Factor eq",
+            "result": "['(-x + sqrt(3) + 3) (x + sqrt(3) - 3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 8*x^1 - 1*x^2 + 2",
+            "type": "Factor eq",
+            "result": "['(-x + 3 sqrt(2) + 4) (x + 3 sqrt(2) - 4)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 8*x^1 + 7*x^2 - 9",
+            "type": "Factor eq",
+            "result": "['-1/7 (-7 x + sqrt(79) - 4) (7 x + sqrt(79) + 4)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 6*x^1 - 6*x^2 + 5",
+            "type": "Factor eq",
+            "result": "['1/6 (-6 x + sqrt(39) + 3) (6 x + sqrt(39) - 3)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 6*x^1 - 5*x^2 - 4",
+            "type": "Factor eq",
+            "result": "['-1/5 (-5 i x + sqrt(11) + 3 i) (5 i x + sqrt(11) - 3 i)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 3*x^1 + 4*x^2 + 8",
+            "type": "Factor eq",
+            "result": "['1/16 (-8 i x + sqrt(119) - 3 i) (8 i x + sqrt(119) + 3 i)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 5*x^1 - 5*x^2 - 5",
+            "type": "Factor eq",
+            "result": "['5 ((-1)^(1/3) - x) (x + (-1)^(1/3) - 1)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 5*x^1 - 8*x^2 - 1",
+            "type": "Factor eq",
+            "result": "['-1/32 (-16 i x + sqrt(7) + 5 i) (16 i x + sqrt(7) - 5 i)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "Factor 1*x^1 + 8*x^2 + 7",
+            "type": "Factor eq",
+            "result": "['1/32 (-16 i x + sqrt(223) - i) (16 i x + sqrt(223) + i)']",
+            "alternate_forms": []
+        },
+        {
+            "prompt": "7x - 3y + 6z = -1, 4x - 8y + 4z = -9, 6x + 8y - 6z = 3",
+            "type": "Solve system of three equations",
+            "result": "x = -89/224, y = 321/224, z = 227/224",
+            "alternate_forms": [
+                "{z = -(7 x)/6 + y/2 - 1/6, z = -x + 2 y - 9/4, z = x + (4 y)/3 - 1/2}",
+                "{7 x - 3 y + 6 z = -1, 4 (x - 2 y + z) = -9, 2 (3 x + 4 y - 3 z) = 3}",
+                "{7 x + 6 z + 1 = 3 y, 4 x + 4 z + 9 = 8 y, 6 x + 8 y = 6 z + 3}"
+            ]
+        },
+        {
+            "prompt": "8x - 2y - 7z = -7, 5x + 3y + 7z = -4, 4x + 8y + 1z = -7",
+            "type": "Solve system of three equations",
+            "result": "x = -269/333, y = -166/333, z = 73/333",
+            "alternate_forms": [
+                "{z = (8 x)/7 - (2 y)/7 + 1, z = -(5 x)/7 - (3 y)/7 - 4/7, z = -4 x - 8 y - 7}",
+                "{8 x + 7 = 2 y + 7 z, 5 x + 3 y + 7 z + 4 = 0, 4 x + 8 y + z + 7 = 0}"
+            ]
+        },
+        {
+            "prompt": "6x + 3y + 6z = -2, 1x - 2y + 6z = 8, 7x + 5y - 7z = -2",
+            "type": "Solve system of three equations",
+            "result": "x = 76/33, y = -142/33, z = -16/33",
+            "alternate_forms": [
+                "{z = -x - y/2 - 1/3, z = -x/6 + y/3 + 4/3, z = x + (5 y)/7 + 2/7}",
+                "{6 x + 3 y + 6 z + 2 = 0, x + 6 z = 2 y + 8, 7 x + 5 y + 2 = 7 z}"
+            ]
+        },
+        {
+            "prompt": "6x + 4y - 6z = -4, 5x - 3y + 7z = -8, 7x - 5y + 1z = 4",
+            "type": "Solve system of three equations",
+            "result": "x = -37/49, y = -106/49, z = -75/49",
+            "alternate_forms": [
+                "{z = x + (2 y)/3 + 2/3, z = -(5 x)/7 + (3 y)/7 - 8/7, z = -7 x + 5 y + 4}",
+                "{3 x + 2 y + 2 = 3 z, 5 x + 7 z + 8 = 3 y, 7 x + z = 5 y + 4}",
+                "{2 (3 x + 2 y - 3 z) = -4, 5 x - 3 y + 7 z = -8, 7 x - 5 y + z = 4}"
+            ]
+        },
+        {
+            "prompt": "3x - 1y + 7z = 4, 4x - 5y + 6z = -8, 2x - 2y - 8z = -4",
+            "type": "Solve system of three equations",
+            "result": "x = 134/63, y = 220/63, z = 10/63",
+            "alternate_forms": [
+                "{3 x + 7 z = y + 4, 4 x + 6 z + 8 = 5 y, x + 2 = y + 4 z}",
+                "{3 x - y + 7 z = 4, 4 x - 5 y + 6 z = -8, 2 (x - y - 4 z) = -4}",
+                "{z = -(3 x)/7 + y/7 + 4/7, z = -(2 x)/3 + (5 y)/6 - 4/3, z = x/4 - y/4 + 1/2}"
+            ]
+        },
+        {
+            "prompt": "8x + 7y - 7z = 3, 2x - 2y + 8z = -3, 5x - 1y - 1z = -5",
+            "type": "Solve system of three equations",
+            "result": "x = -37/53, y = 145/106, z = 15/106",
+            "alternate_forms": [
+                "{z = (8 x)/7 + y - 3/7, z = -x/4 + y/4 - 3/8, z = 5 x - y + 5}",
+                "{8 x + 7 y = 7 z + 3, 2 x + 8 z + 3 = 2 y, 5 x + 5 = y + z}",
+                "{8 x + 7 y - 7 z = 3, 2 (x - y + 4 z) = -3, 5 x - y - z = -5}"
+            ]
+        },
+        {
+            "prompt": "6x + 6y - 8z = -4, 1x - 4y - 1z = -4, 4x + 3y + 6z = 4",
+            "type": "Solve system of three equations",
+            "result": "x = -86/169, y = 120/169, z = 110/169",
+            "alternate_forms": [
+                "{3 x + 3 y + 2 = 4 z, x + 4 = 4 y + z, 4 x + 3 y + 6 z = 4}",
+                "{z = (3 x)/4 + (3 y)/4 + 1/2, z = x - 4 y + 4, z = -(2 x)/3 - y/2 + 2/3}",
+                "{2 (3 x + 3 y - 4 z) = -4, x - 4 y - z = -4, 4 x + 3 y + 6 z = 4}"
+            ]
+        },
+        {
+            "prompt": "6x + 5y - 4z = -6, 5x + 4y - 2z = 7, 3x + 7y + 1z = 3",
+            "type": "Solve system of three equations",
+            "result": "x = 107/13, y = -56/13, z = 110/13",
+            "alternate_forms": [
+                "{6 x + 5 y + 6 = 4 z, 5 x + 4 y = 2 z + 7, 3 x + 7 y + z = 3}",
+                "{z = (3 x)/2 + (5 y)/4 + 3/2, z = (5 x)/2 + 2 y - 7/2, z = -3 x - 7 y + 3}"
+            ]
+        },
+        {
+            "prompt": "5x + 3y + 8z = 2, 1x - 7y - 8z = -4, 8x + 3y - 2z = 8",
+            "type": "Solve system of three equations",
+            "result": "x = 53/119, y = 139/119, z = -111/238",
+            "alternate_forms": [
+                "{5 x + 3 y + 8 z = 2, x + 4 = 7 y + 8 z, 8 x + 3 y = 2 (z + 4)}",
+                "{z = -(5 x)/8 - (3 y)/8 + 1/4, z = x/8 - (7 y)/8 + 1/2, z = 4 x + (3 y)/2 - 4}"
+            ]
+        },
+        {
+            "prompt": "5x - 6y + 7z = 6, 5x - 7y - 7z = -9, 3x - 8y - 8z = 7",
+            "type": "Solve system of three equations",
+            "result": "x = -121/19, y = -1153/247, z = 347/247",
+            "alternate_forms": [
+                "{5 x + 7 z = 6 y + 6, 5 x + 9 = 7 (y + z), 3 x = 8 (y + z) + 7}",
+                "{z = -(5 x)/7 + (6 y)/7 + 6/7, z = (5 x)/7 - y + 9/7, z = (3 x)/8 - y - 7/8}"
+            ]
+        }
+    ],
+    "prompt types": [
+        "Solve for x:",
+        "Factor eq",
+        "Solve system of three equations"
+    ]
+}
