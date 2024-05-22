@@ -39,3 +39,4 @@ Thumbs.db
 # jupyter lab #
 ###############
 *.pyc
+*.cpython-38.pyc
