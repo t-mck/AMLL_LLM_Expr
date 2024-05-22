@@ -1,5 +1,10 @@
-****Added scripts for Integrals and derivatives****
+****Added scripts and response files****
 GetDerivatives_WolframAlphaAPI-> Can be used for first, second and third derivatives
 GetIntegralSolutions_WolframAlphaAPI -> For integral solutions
+Basic_Math_Results_WolframAlphaAPI -> Solve three equations, solve for x, Factorisation, Simple Operations
+
+
+**********Json****************
 dev_ann_result.json -> 100 queries and results for derivatives
 ints_ann_result.json -> 100 queries and results for integrals
+calc_basic_result.json -> Solve three equations, solve for x, Factorisation
