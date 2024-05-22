@@ -1,0 +1,129 @@
+{
+    "annotations": [
+        {
+            "prompt": "Solve for x 1*x^1 + 6*x^2 - 5 = 4*x^1 + 1*x^2 - 7",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 1*x^3 - 4*x^2 + 1 = 1*x^1 + 6*x^2 + 4",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 2*x^2 - 5*x^1 + 2 = 2*x^3 - 5*x^3 - 2",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 4*x^1 + 6*x^1 + 6 = 1*x^3 - 4*x^2 + 9",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 6*x^3 + 2*x^2 - 3 = 2*x^1 + 5*x^1 - 2",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 6*x^1 - 7*x^2 + 7 = 1*x^3 - 3*x^3 - 2",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 1*x^1 + 1*x^2 - 3 = 8*x^1 + 5*x^1 + 3",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 8*x^2 - 7*x^2 + 1 = 2*x^3 + 3*x^3 - 7",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 1*x^3 + 8*x^3 - 2 = 3*x^2 - 8*x^3 - 7",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Solve for x 7*x^1 + 2*x^1 - 1 = 3*x^2 - 7*x^3 + 6",
+            "type": "Solve for x"
+        },
+        {
+            "prompt": "Factor 3*x^1 + 1*x^2 + 5",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 6*x^1 - 1*x^2 - 6",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 8*x^1 - 1*x^2 + 2",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 8*x^1 + 7*x^2 - 9",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 6*x^1 - 6*x^2 + 5",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 6*x^1 - 5*x^2 - 4",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 3*x^1 + 4*x^2 + 8",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 5*x^1 - 5*x^2 - 5",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 5*x^1 - 8*x^2 - 1",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "Factor 1*x^1 + 8*x^2 + 7",
+            "type": "Factor eq"
+        },
+        {
+            "prompt": "7x - 3y + 6z = -1, 4x - 8y + 4z = -9, 6x + 8y - 6z = 3",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "8x - 2y - 7z = -7, 5x + 3y + 7z = -4, 4x + 8y + 1z = -7",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "6x + 3y + 6z = -2, 1x - 2y + 6z = 8, 7x + 5y - 7z = -2",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "6x + 4y - 6z = -4, 5x - 3y + 7z = -8, 7x - 5y + 1z = 4",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "3x - 1y + 7z = 4, 4x - 5y + 6z = -8, 2x - 2y - 8z = -4",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "8x + 7y - 7z = 3, 2x - 2y + 8z = -3, 5x - 1y - 1z = -5",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "6x + 6y - 8z = -4, 1x - 4y - 1z = -4, 4x + 3y + 6z = 4",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "6x + 5y - 4z = -6, 5x + 4y - 2z = 7, 3x + 7y + 1z = 3",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "5x + 3y + 8z = 2, 1x - 7y - 8z = -4, 8x + 3y - 2z = 8",
+            "type": "Solve system of three equations"
+        },
+        {
+            "prompt": "5x - 6y + 7z = 6, 5x - 7y - 7z = -9, 3x - 8y - 8z = 7",
+            "type": "Solve system of three equations"
+        }
+    ],
+    "prompt types": [
+        "Solve for x",
+        "Factor eq",
+        "Solve system of three equations"
+    ]
+}

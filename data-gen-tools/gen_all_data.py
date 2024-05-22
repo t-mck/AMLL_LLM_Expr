@@ -200,10 +200,9 @@ for p in simple_factor_prompts:
 for p in simple_sys_eq_prompts:
     out['annotations'].append({'prompt':p, 'type':'Solve system of three equations'})
 out_obj = json.dumps(out, indent=4)
-#with open(dir_save+calc_12_fn, "w") as outfile:
+#with open(dir_save+algebra_fn, "w") as outfile:
 #    outfile.write(out_obj)
 
-1/0
 
 ### Save Calc 1&2 ###
 out = {'annotations':[]}
@@ -212,5 +211,5 @@ for p in devs:
 for p in ints:
     out['annotations'].append({'prompt':p, 'type':'integral'})
 out_obj = json.dumps(out, indent=4)
-#with open(dir_save+calc_12_fn, "w") as outfile:
-#    outfile.write(out_obj)
+with open(dir_save+calc_12_fn, "w") as outfile:
+    outfile.write(out_obj)
