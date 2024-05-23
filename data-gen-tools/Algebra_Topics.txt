@@ -1,0 +1,170 @@
+These Topics come from Khan Academy
+
+https://www.khanacademy.org/math/algebra-basics
+https://www.khanacademy.org/math/college-algebra
+
+1. Foundations
+Negative numbers: Foundations
+Absolute value: Foundations
+Exponents: Foundations
+Square roots: Foundations
+Order of operations: Foundations
+Fractions: Foundations
+Decimals, fractions and percentages: Foundations
+Operations with decimals: Foundations
+Area of triangles: Foundations
+Circumference and area of circles
+
+2. Algebraic expressions
+Introduction to variables: Algebraic expressions
+Substitution & evaluating expressions: Algebraic expressions
+Writing algebraic expressions: Algebraic expressions
+Combining like terms: Algebraic expressions
+Distributive property: Algebraic expressions
+Equivalent algebraic expressions: Algebraic expressions
+Nested fractions
+
+3. Linear equations and inequalities
+One-step equations: Linear equations and inequalities
+Two-steps equations: Linear equations and inequalities
+Multi-step equations: Linear equations and inequalities
+One-step inequalities: Linear equations and inequalities
+Two-step inequalities: Linear equations and inequalities
+Multi-step inequalities: Linear equations and inequalities
+Writing & solving proportions
+
+4: Graphing lines and slope
+Coordinate plane: Graphing lines and slope
+Solutions to two-variable linear equations: Graphing lines and slope
+x-intercepts and y-intercepts: Graphing lines and slope
+Slope: Graphing lines and slope
+Horizontal & vertical lines: Graphing lines and slope
+Slope-intercept form intro: Graphing lines and slope
+Writing slope-intercept equations: Graphing lines and slope
+Graphing two-variable inequalities
+
+ 5: Systems of equations
+ Systems of equations intro: Systems of equations
+Elimination method for systems of equations: Systems of equations
+Substitution method for systems of equations: Systems of equations
+Number of solutions to systems of equations
+
+6: Expressions with exponents
+Adding & subtracting polynomials: Quadratics and polynomials
+Multiplying binomials: Quadratics and polynomials
+Special products of binomials: Quadratics and polynomials
+Factoring polynomials by taking common factors: Quadratics and polynomials
+Factoring quadratics 1: Quadratics and polynomials
+Factoring quadratics 2: Quadratics and polynomials
+Factoring quadratics: Difference of squares: Quadratics and polynomials
+Factoring quadratics: Perfect squares: Quadratics and polynomials
+Solving quadratic equations by factoring
+
+8: Equations and geometry
+Equations & geometry: Equations and geometry
+Triangle angles: Equations and geometry
+
+
+College Algebra
+
+
+Unit 1: Linear equations and inequalities
+Solving equations with one unknown: Linear equations and inequalities
+Solutions to linear equations: Linear equations and inequalities
+Multi-step linear inequalities: Linear equations and inequalities
+Compound inequalities: Linear equations and inequalities
+Modeling with linear equations and inequalities: Linear equations and inequalities
+Absolute value equations: Linear equations and inequalities
+
+Unit 2: Graphs and forms of linear equations
+Intercepts: Graphs and forms of linear equations
+Slope: Graphs and forms of linear equations
+Graphing from slope: Graphs and forms of linear equations
+Horizontal and vertical lines: Graphs and forms of linear equations
+Slope-intercept form: Graphs and forms of linear equations
+Point-slope form: Graphs and forms of linear equations
+Writing linear equations in any form: Graphs and forms of linear equations
+Equations of parallel and perpendicular lines: Graphs and forms of linear equations
+
+Unit 3: Functions
+Evaluating functions: Functions
+Inputs and outputs of a function: Functions
+Domain and range of a function: Functions
+Recognizing functions: Functions
+Intervals where a function is positive, negative, increasing, or decreasing: Functions
+Intro to inverse functions: Functions
+
+Unit 4: Quadratics: Multiplying and factoring
+Multiplying binomials: Quadratics: Multiplying and factoring
+Special products of binomials: Quadratics: Multiplying and factoring
+Factoring quadratics intro: Quadratics: Multiplying and factoring
+Factoring quadratics by grouping: Quadratics: Multiplying and factoring
+Factoring quadratics with difference of squares: Quadratics: Multiplying and factoring
+Factoring quadratics with perfect squares: Quadratics: Multiplying and factoring
+
+Unit 5: Quadratic functions and equations
+Solving quadratics by taking the square root: Quadratic functions and equations
+Vertex form: Quadratic functions and equations
+Solving quadratics by factoring: Quadratic functions and equations
+The quadratic formula: Quadratic functions and equations
+Completing the square: Quadratic functions and equations
+Forms and features of quadratic functions: Quadratic functions and equations
+
+Unit 6: Complex numbers
+The imaginary unit i: Complex numbers
+Adding and subtracting complex numbers: Complex numbers
+Multiplying complex numbers: Complex numbers
+Complex conjugates and dividing complex numbers: Complex numbers
+
+Unit 7: Exponents and radicals
+Exponent properties (integer exponents): Exponents and radicals
+Simplifying square roots: Exponents and radicals
+Exponential expressions: Exponents and radicals
+Graphing exponential growth and decay: Exponents and radicals
+
+Unit 8: Rational expressions and equations
+Rational equations: Rational expressions and equations
+Modeling with rational expressions: Rational expressions and equations
+Reducing rational expressions to lowest terms: Rational expressions and equations
+Multiplying and dividing rational expressions: Rational expressions and equations
+Adding and subtracting rational expressions: Rational expressions and equations
+
+Unit 9: Relating algebra and geometry
+Distance and midpoints: Relating algebra and geometry
+Standard equation of a circle: Relating algebra and geometry
+Expanded equation of a circle: Relating algebra and geometry
+
+Unit 10: Polynomial arithmetic
+Average rate of change of polynomials: Polynomial arithmetic
+Adding and subtracting polynomials: Polynomial arithmetic
+Taking common factors: Polynomial arithmetic
+Factoring higher degree polynomials: Polynomial arithmetic
+Factoring using structure: Polynomial arithmetic
+
+Unit 11: Advanced function types
+Graphs of absolute value functions: Advanced function types
+Piecewise functions: Advanced function types
+Composing functions: Advanced function types
+Verifying inverse functions by composition: Advanced function types
+
+Unit 12: Transformations of functions
+Shifting functions: Transformations of functions
+Reflecting functions: Transformations of functions
+Symmetry of functions: Transformations of functions
+Scaling functions: Transformations of functions
+
+Unit 13: Rational exponents and radicals
+Rational exponents: Rational exponents and radicals
+Properties of exponents (rational exponents): Rational exponents and radicals
+Evaluating exponents and radicals: Rational exponents and radicals
+Solving exponential equations using properties of exponents: Rational exponents and radicals
+Interpreting the rate of change of exponential models: Rational exponents and radicals
+Square-root equations: Rational exponents and radicals
+
+Unit 14: Logarithms
+Introduction to logarithms: Logarithms
+Properties of logarithms: Logarithms
+The change of base formula for logarithms
+Pythagorean theorem: Equations and geometry
+Triangle similarity intro: Equations and geometry
+Solving similar triangles
