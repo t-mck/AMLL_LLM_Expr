@@ -1,0 +1,107 @@
+Probability and Statistics
+https://www.khanacademy.org/math/statistics-probability
+
+Unit 1: Analyzing categorical data
+Analyzing one categorical variable: Analyzing categorical data
+Two-way tables: Analyzing categorical data
+Distributions in two-way tables: Analyzing categorical data
+
+Unit 2: Displaying and comparing quantitative data
+Displaying quantitative data with graphs: Displaying and comparing quantitative data
+Describing and comparing distributions: Displaying and comparing quantitative data
+More on data displays: Displaying and comparing quantitative data
+
+Unit 3: Summarizing quantitative data
+Measuring center in quantitative data: Summarizing quantitative data
+More on mean and median: Summarizing quantitative data
+Interquartile range (IQR): Summarizing quantitative data
+Variance and standard deviation of a population: Summarizing quantitative data
+Variance and standard deviation of a sample: Summarizing quantitative data
+More on standard deviation: Summarizing quantitative data
+Box and whisker plots: Summarizing quantitative data
+Other measures of spread: Summarizing quantitative data
+
+Unit 4: Modeling data distributions
+Percentiles: Modeling data distributions
+Z-scores: Modeling data distributions
+Effects of linear transformations: Modeling data distributions
+Density curves: Modeling data distributions
+Normal distributions and the empirical rule: Modeling data distributions
+Normal distribution calculations: Modeling data distributions
+More on normal distributions: Modeling data distributions
+
+Unit 5: Exploring bivariate numerical data
+Introduction to scatterplots: Exploring bivariate numerical data
+Correlation coefficients: Exploring bivariate numerical data
+Introduction to trend lines: Exploring bivariate numerical data
+Least-squares regression equations: Exploring bivariate numerical data
+Assessing the fit in least-squares regression: Exploring bivariate numerical data
+More on regression: Exploring bivariate numerical data
+
+Unit 6: Study design
+Statistical questions: Study design
+Sampling and observational studies: Study design
+Sampling methods: Study design
+Types of studies (experimental vs. observational): Study design
+Experiments: Study design
+
+Unit 7: Probability
+Basic theoretical probability: Probability
+Probability using sample spaces: Probability
+Basic set operations: Probability
+Experimental probability: Probability
+Randomness, probability, and simulation: Probability
+Addition rule: Probability
+Multiplication rule for independent events: Probability
+Multiplication rule for dependent events: Probability
+Conditional probability and independence: Probability
+
+Unit 8: Counting, permutations, and combinations
+Counting principle and factorial: Counting, permutations, and combinations
+Permutations: Counting, permutations, and combinations
+Combinations: Counting, permutations, and combinations
+Combinatorics and probability: Counting, permutations, and combinations
+
+Unit 9: Random variables
+Discrete random variables: Random variables
+Continuous random variables: Random variables
+Transforming random variables: Random variables
+Combining random variables: Random variables
+Binomial random variables: Random variables
+Binomial mean and standard deviation formulas: Random variables
+Geometric random variables: Random variables
+More on expected value: Random variables
+Poisson distribution: Random variables
+
+Unit 10: Sampling distributions
+What is a sampling distribution?: Sampling distributions
+Sampling distribution of a sample proportion: Sampling distributions
+Sampling distribution of a sample mean: Sampling distributions
+
+Unit 11: Confidence intervals
+Introduction to confidence intervals: Confidence intervals
+Estimating a population proportion: Confidence intervals
+Estimating a population mean: Confidence intervals
+More confidence interval videos: Confidence intervals
+
+Unit 12: Significance tests (hypothesis testing)
+The idea of significance tests: Significance tests (hypothesis testing)
+Error probabilities and power: Significance tests (hypothesis testing)
+Tests about a population proportion: Significance tests (hypothesis testing)
+Tests about a population mean: Significance tests (hypothesis testing)
+More significance testing videos: Significance tests (hypothesis testing)
+
+Unit 13: Two-sample inference for the difference between groups
+Comparing two proportions: Two-sample inference for the difference between groups
+Comparing two means: Two-sample inference for the difference between groups
+
+Unit 14: Inference for categorical data (chi-square tests)
+Chi-square goodness-of-fit tests: Inference for categorical data (chi-square tests)
+Chi-square tests for relationships: Inference for categorical data (chi-square tests)
+
+Unit 15: Advanced regression (inference and transforming)
+Inference about slope: Advanced regression (inference and transforming)
+Nonlinear regression: Advanced regression (inference and transforming)
+
+Unit 16: Analysis of variance (ANOVA)
+Analysis of variance (ANOVA)
