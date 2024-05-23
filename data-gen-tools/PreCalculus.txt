@@ -1,0 +1,150 @@
+PreCalculus
+https://www.khanacademy.org/math/precalculus
+https://www.khanacademy.org/math/trigonometry
+
+Unit 1: Composite and inverse functions
+Composing functions: Composite and inverse functions
+Modeling with composite functions: Composite and inverse functions
+Invertible functions: Composite and inverse functions
+Inverse functions in graphs and tables: Composite and inverse functions
+Verifying inverse functions by composition: Composite and inverse functions
+
+Unit 2: Trigonometry
+Special trigonometric values in the first quadrant: Trigonometry
+Trigonometric identities on the unit circle: Trigonometry
+Inverse trigonometric functions: Trigonometry
+Law of sines: Trigonometry
+Law of cosines: Trigonometry
+Solving general triangles: Trigonometry
+Sinusoidal equations: Trigonometry
+Sinusoidal models: Trigonometry
+Angle addition identities: Trigonometry
+Using trigonometric identities: Trigonometry
+
+Unit 3: Complex numbers
+The complex plane: Complex numbers
+Distance and midpoint of complex numbers: Complex numbers
+Complex conjugates and dividing complex numbers: Complex numbers
+Identities with complex numbers: Complex numbers
+Modulus (absolute value) and argument (angle) of complex numbers: Complex numbers
+Polar form of complex numbers: Complex numbers
+Graphically multiplying complex numbers: Complex numbers
+Multiplying and dividing complex numbers in polar form: Complex numbers
+The fundamental theorem of algebra: Complex numbers
+
+Unit 4: Rational functions
+Reducing rational expressions to lowest terms: Rational functions
+End behavior of rational functions: Rational functions
+Discontinuities of rational functions: Rational functions
+Graphs of rational functions: Rational functions
+Modeling with rational functions: Rational functions
+Multiplying and dividing rational expressions: Rational functions
+Adding and subtracting rational expressions: Rational functions
+
+Unit 5: Conic sections
+Introduction to conic sections: Conic sections
+Center and radii of an ellipse: Conic sections
+Foci of an ellipse: Conic sections
+Introduction to hyperbolas: Conic sections
+Foci of a hyperbola: Conic sections
+Hyperbolas not centered at the origin: Conic sections
+
+Unit 6: Vectors
+Vectors introduction: Vectors
+Vector components: Vectors
+Magnitude of vectors: Vectors
+Scalar multiplication: Vectors
+Vector addition and subtraction: Vectors
+Direction of vectors: Vectors
+Vector components from magnitude and direction: Vectors
+Adding vectors in magnitude and direction form: Vectors
+Vectors word problems: Vectors
+
+Unit 7: Matrices
+Introduction to matrices: Matrices
+Using matrices to represent data: Matrices
+Multiplying matrices by scalars: Matrices
+Adding and subtracting matrices: Matrices
+Properties of matrix addition & scalar multiplication: Matrices
+Using matrices to manipulate data: Matrices
+Matrices as transformations of the plane: Matrices
+Using matrices to transform the plane: Matrices
+Transforming 3D and 4D vectors with matrices: Matrices
+Multiplying matrices by matrices: Matrices
+Properties of matrix multiplication: Matrices
+Representing systems of equations with matrices: Matrices
+Introduction to matrix inverses: Matrices
+Finding inverses of 2x2 matrices: Matrices
+Solving linear systems with matrices: Matrices
+
+Unit 8: Probability and combinatorics
+Venn diagrams and the addition rule: Probability and combinatorics
+Multiplication rule for probabilities: Probability and combinatorics
+Permutations: Probability and combinatorics
+Combinations: Probability and combinatorics
+Probability using combinatorics: Probability and combinatorics
+Probability distributions introduction: Probability and combinatorics
+Theoretical & empirical probability distributions: Probability and combinatorics
+Decisions with probability: Probability and combinatorics
+Expected value: Probability and combinatorics
+
+Unit 9: Series
+Geometric series: Series
+Geometric series (with summation notation): Series
+The binomial theorem: Series
+Arithmetic series: Series
+
+Unit 10: Limits and continuity
+Defining limits and using limit notation: Limits and continuity
+Estimating limit values from graphs: Limits and continuity
+Estimating limit values from tables: Limits and continuity
+Determining limits using algebraic properties of limits: limit properties: Limits and continuity
+Determining limits using algebraic properties of limits: direct substitution: Limits and continuity
+Determining limits using algebraic manipulation: Limits and continuity
+Selecting procedures for determining limits: Limits and continuity
+Determining limits using the squeeze theorem: Limits and continuity
+Exploring types of discontinuities: Limits and continuity
+Defining continuity at a point: Limits and continuity
+Confirming continuity over an interval: Limits and continuity
+Removing discontinuities: Limits and continuity
+Connecting infinite limits and vertical asymptotes: Limits and continuity
+Connecting limits at infinity and horizontal asymptotes: Limits and continuity
+Working with the intermediate value theorem
+
+Additional Trigonometry
+
+
+Unit 1: Right triangles & trigonometry
+Ratios in right triangles: Right triangles & trigonometry
+Introduction to the trigonometric ratios: Right triangles & trigonometry
+Solving for a side in a right triangle using the trigonometric ratios: Right triangles & trigonometry
+Solving for an angle in a right triangle using the trigonometric ratios: Right triangles & trigonometry
+Sine and cosine of complementary angles: Right triangles & trigonometry
+Modeling with right triangles: Right triangles & trigonometry
+The reciprocal trigonometric ratios: Right triangles & trigonometry
+
+Unit 2: Trigonometric functions
+Unit circle introduction: Trigonometric functions
+Radians: Trigonometric functions
+The Pythagorean identity: Trigonometric functions
+Special trigonometric values in the first quadrant: Trigonometric functions
+Trigonometric values on the unit circle: Trigonometric functions
+Graphs of sin(x), cos(x), and tan(x): Trigonometric functions
+Amplitude, midline, and period: Trigonometric functions
+Transforming sinusoidal graphs: Trigonometric functions
+Graphing sinusoidal functions: Trigonometric functions
+Sinusoidal models: Trigonometric functions
+Long live Tau: Trigonometric functions
+
+Unit 3: Non-right triangles & trigonometry
+Law of sines: Non-right triangles & trigonometry
+Law of cosines: Non-right triangles & trigonometry
+Solving general triangles: Non-right triangles & trigonometry
+
+Unit 4: Trigonometric equations and identities
+Inverse trigonometric functions: Trigonometric equations and identities
+Sinusoidal equations: Trigonometric equations and identities
+Sinusoidal models: Trigonometric equations and identities
+Angle addition identities: Trigonometric equations and identities
+Using trigonometric identities: Trigonometric equations and identities
+Challenging trigonometry problems
