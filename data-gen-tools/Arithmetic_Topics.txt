@@ -1,0 +1,161 @@
+Arithmetic Topics
+https://www.khanacademy.org/math/arithmetic
+
+Unit 1: Intro to multiplication
+Multiplication as equal groups: Intro to multiplication
+Multiplication on the number line: Intro to multiplication
+Multiply using groups of objects: Intro to multiplication
+Multiplication with arrays: Intro to multiplication
+Commutative property of multiplication: Intro to multiplication
+
+Unit 2: 1-digit multiplication
+Multiply by 0 or 1: 1-digit multiplication
+Multiply by 2 or 4: 1-digit multiplication
+Multiply by 5 or 10: 1-digit multiplication
+Multiply by 3 or 6: 1-digit multiplication
+Distributive property: 1-digit multiplication
+Multiply by 7, 8, or 9: 1-digit multiplication
+1-digit multiplication: 1-digit multiplication
+Associative property of multiplication: 1-digit multiplication
+Comparing with multiplication: 1-digit multiplication
+
+Unit 3: Intro to division
+Division intro: Intro to division
+Relating multiplication and division: Intro to division
+Divide by 1, 2, or 4: Intro to division
+Divide by 5 or 10: Intro to division
+Divide by 3 or 6: Intro to division
+Divide by 7, 8, or 9: Intro to division
+1-digit division: Intro to division
+Multiplication and division word problems: Intro to division
+
+Unit 4: Understand fractions
+Fractions intro: Understand fractions
+What fractions mean: Understand fractions
+Fractions on the number line: Understand fractions
+Fractions and whole numbers: Understand fractions
+Equivalent fractions: Understand fractions
+
+Unit 5: Place value through 1,000,000
+Intro to place value through 1,000: Place value through 1,000,000
+Numbers in expanded form: Place value through 1,000,000
+Regroup whole numbers: Place value through 1,000,000
+Greater place values: Place value through 1,000,000
+How 10 relates to place value: Place value through 1,000,000
+
+Unit 6: Add and subtract through 1,000,000
+Visually adding within 1,000: Add and subtract through 1,000,000
+Strategies for adding within 1,000: Add and subtract through 1,000,000
+Strategies for subtracting within 1,000: Add and subtract through 1,000,000
+Adding within 1,000,000: Add and subtract through 1,000,000
+Subtracting within 1,000,000: Add and subtract through 1,000,000
+
+Unit 7: Multiply 1- and 2-digit numbers
+Multiplication by 10s, 100s, and 1000s: Multiply 1- and 2-digit numbers
+Multi-digit multiplication: place value and area models: Multiply 1- and 2-digit numbers
+Multiply with partial products: Multiply 1- and 2-digit numbers
+Multiply by 10s: Multiply 1- and 2-digit numbers
+Multiply 2-digit numbers with area models: Multiply 1- and 2-digit numbers
+Multiply 2-digit numbers with partial products: Multiply 1- and 2-digit numbers
+
+Unit 8: Divide with remainders
+Remainders: Divide with remainders
+Divide multiples of 10, 100, and 1,000 by 1-digit numbers: Divide with remainders
+Division with place value: Divide with remainders
+Division with area models: Divide with remainders
+Multi-digit division with partial quotients: Divide with remainders
+Multiplication and division word problems: Divide with remainders
+Multi-step word problems: Divide with remainders
+
+Unit 9: Add and subtract fraction (like denominators)
+Equivalent fractions: Add and subtract fraction (like denominators)
+Common denominators: Add and subtract fraction (like denominators)
+Decomposing fractions: Add and subtract fraction (like denominators)
+Adding and subtracting fractions with like denominators: Add and subtract fraction (like denominators)
+Adding and subtracting fractions: word problems: Add and subtract fraction (like denominators)
+Mixed numbers: Add and subtract fraction (like denominators)
+Adding and subtracting mixed numbers: Add and subtract fraction (like denominators)
+
+Unit 10: Multiply fractions
+Multiplying fractions and whole numbers visually: Multiply fractions
+Multiplying whole numbers and fractions: Multiply fractions
+Multiplying whole numbers and mixed numbers: Multiply fractions
+Multiplying fractions and whole numbers word problems: Multiply fractions
+Multiplication as scaling: Multiply fractions
+Multiplying fractions and whole numbers: Multiply fractions
+Multiplying fractions: Multiply fractions
+Multiplying mixed numbers: Multiply fractions
+Area of rectangles with fractional side lengths: Multiply fractions
+Multiplying fractions word problems: Multiply fractions
+
+Unit 11: Decimals and place value
+Decimal fractions: Decimals and place value
+Decimal fractions greater than 1: Decimals and place value
+Writing fractions as decimals: Decimals and place value
+Decimal place value intro: Decimals and place value
+Decimals on the number line: Decimals and place value
+Decimals in expanded form: Decimals and place value
+Regrouping decimals: Decimals and place value
+
+Unit 12: Add and subtract decimals
+Adding decimals intro: Add and subtract decimals
+Adding decimals (tenths and hundredths): Add and subtract decimals
+Subtracting decimals intro: Add and subtract decimals
+Subtracting decimals (tenths and hundredths): Add and subtract decimals
+
+Unit 13: Add and subtract fractions (different denominators)
+Fractions with denominators of 10 and 100: Add and subtract fractions (different denominators)
+Visually adding and subtracting fractions: Add and subtract fractions (different denominators)
+Common denominators: Add and subtract fractions (different denominators)
+Adding and subtracting fractions with unlike denominators: Add and subtract fractions (different denominators)
+Adding and subtracting mixed numbers with unlike denominators: Add and subtract fractions (different denominators)
+Adding and subtracting fractions with unlike denominators word problems: Add and subtract fractions (different denominators)
+
+Unit 14: Multiply and divide multi-digit numbers
+Multiply with multiples of 10, 100, and 1,000: Multiply and divide multi-digit numbers
+Multi-digit multiplication: Multiply and divide multi-digit numbers
+Divide with multiples of 10, 100, and 1,000: Multiply and divide multi-digit numbers
+Multi-digit division: Multiply and divide multi-digit numbers
+
+Unit 15: Divide fractions
+Fractions as division: Divide fractions
+Dividing unit fractions by whole number: Divide fractions
+Dividing whole numbers by unit fractions: Divide fractions
+Dividing fractions and whole numbers word problems: Divide fractions
+Dividing fractions by fractions: Divide fractions
+Dividing mixed numbers: Divide fractions
+
+Unit 16: Multiply and divide decimals
+Multiplying decimals and whole numbers: Multiply and divide decimals
+Multiplying decimals strategies: Multiply and divide decimals
+Multiplying decimals: Multiply and divide decimals
+Divide whole numbers to get a decimal quotient: Multiply and divide decimals
+Divide decimals by whole numbers: Multiply and divide decimals
+Divide whole numbers by decimals: Multiply and divide decimals
+
+Unit 17: Exponents and powers of ten
+Multiplying and dividing whole numbers by 10, 100, and 1,000: Exponents and powers of ten
+Multiplying and dividing decimals by 10, 100, and 1,000: Exponents and powers of ten
+Powers of 10: Exponents and powers of ten
+Multiplying and dividing with powers of 10: Exponents and powers of ten
+Intro to exponents: Exponents and powers of ten
+Order of operations with exponents: Exponents and powers of ten
+
+Unit 18: Add and subtract negative numbers
+Intro to negative numbers: Add and subtract negative numbers
+Negative symbol as opposite: Add and subtract negative numbers
+Negative decimals and fractions on the number line: Add and subtract negative numbers
+Absolute value: Add and subtract negative numbers
+Intro to adding negative numbers: Add and subtract negative numbers
+Adding negative numbers fluently: Add and subtract negative numbers
+Intro to subtracting negative numbers: Add and subtract negative numbers
+Subtracting negative numbers fluently: Add and subtract negative numbers
+Adding & subtracting integers: Add and subtract negative numbers
+Adding & subtracting negative fractions: Add and subtract negative numbers
+
+Unit 19: Multiply and divide negative numbers
+Multiply and divide integers: Multiply and divide negative numbers
+Multiplication & division word problems with negatives: Multiply and divide negative numbers
+One-step equations with negative rational numbers: Multiply and divide negative numbers
+Understanding multiplying and dividing negative fractions: Multiply and divide negative numbers
+Multiply & divide negative fractions
