@@ -1,0 +1,80 @@
+High School Geometry
+https://www.khanacademy.org/math/geometry
+
+Unit 1: Performing transformations
+Intro to Euclidean geometry: Performing transformations
+Introduction to rigid transformations: Performing transformations
+Translations: Performing transformations
+Rotations: Performing transformations
+Reflections: Performing transformations
+Dilations: Performing transformations
+
+Unit 2: Transformation properties and proofs
+Rigid transformations overview: Transformation properties and proofs
+Dilation preserved properties: Transformation properties and proofs
+Properties & definitions of transformations: Transformation properties and proofs
+Symmetry: Transformation properties and proofs
+Proofs with transformations: Transformation properties and proofs
+
+Unit 3: Congruence
+Transformations & congruence: Congruence
+Triangle congruence from transformations: Congruence
+Congruent triangles: Congruence
+Theorems concerning triangle properties: Congruence
+Working with triangles: Congruence
+Theorems concerning quadrilateral properties: Congruence
+Proofs of general theorems: Congruence
+Constructing lines & angles: Congruence
+
+Unit 4: Similarity
+Definitions of similarity: Similarity
+Introduction to triangle similarity: Similarity
+Solving similar triangles: Similarity
+Angle bisector theorem: Similarity
+Solving problems with similar & congruent triangles: Similarity
+Proving relationships using similarity: Similarity
+Solving modeling problems with similar & congruent triangles: Similarity
+
+Unit 5: Right triangles & trigonometry
+Pythagorean theorem: Right triangles & trigonometry
+Pythagorean theorem proofs: Right triangles & trigonometry
+Special right triangles: Right triangles & trigonometry
+Ratios in right triangles: Right triangles & trigonometry
+Introduction to the trigonometric ratios: Right triangles & trigonometry
+Solving for a side in a right triangle using the trigonometric ratios: Right triangles & trigonometry
+Solving for an angle in a right triangle using the trigonometric ratios: Right triangles & trigonometry
+Sine & cosine of complementary angles: Right triangles & trigonometry
+Modeling with right triangles: Right triangles & trigonometry
+
+Unit 6: Analytic geometry
+Distance and midpoints: Analytic geometry
+Dividing line segments: Analytic geometry
+Problem solving with distance on the coordinate plane: Analytic geometry
+Parallel & perpendicular lines on the coordinate plane: Analytic geometry
+Equations of parallel & perpendicular lines: Analytic geometry
+
+Unit 7: Conic sections
+Graphs of circles intro: Conic sections
+Standard equation of a circle: Conic sections
+Expanded equation of a circle: Conic sections
+Focus and directrix of a parabola: Conic sections
+
+Unit 8: Circles
+Circle basics: Circles
+Arc measure: Circles
+Arc length (from degrees): Circles
+Introduction to radians: Circles
+Arc length (from radians): Circles
+Sectors: Circles
+Inscribed angles: Circles
+Inscribed shapes problem solving: Circles
+Proofs with inscribed shapes: Circles
+Properties of tangents: Circles
+Constructing regular polygons inscribed in circles: Circles
+Constructing circumcircles & incircles: Circles
+Constructing a line tangent to a circle: Circles
+
+Unit 9: Solid geometry
+2D vs. 3D objects: Solid geometry
+Cavalieri's principle and dissection methods: Solid geometry
+Volume and surface area
