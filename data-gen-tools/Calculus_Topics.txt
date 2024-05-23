@@ -1,0 +1,135 @@
+Calculus Topics
+From Calculus Early Transcendentals 7th Ed, by James Stewart
+
+C2.
+Limits of a Function
+Derivatives
+
+C.3 Differentition Rules
+the product and quotient rules
+derivatives of trigonmetric functions
+the chain rule
+derivatives of log functions
+exponential growth and decay
+related rates
+hyperbolic functions
+
+C.4 Applications of Differentiation
+Max and minimum values
+The Mean Value Theorem
+Indeterminate Forms and l'Hospital's Rule
+optimization problems
+Newtons method
+Antiderivatives
+
+C.5 Integrals
+areas and distances
+the definite integral
+indefinite integrals
+substituion rule
+
+C.6 Applications of Integration
+Areas between curves
+Volumes
+Volumes by Cylindrical shells
+work
+Average value of a Function
+
+C.7 Techniques of Integration
+Integration by Parts
+Trigonemtic Integrals
+Trigonmetric substituion
+Integration of Rational Functions by Partial Fractions
+Strategy for integration
+Approx integraiont
+improper integrals
+
+C.8 Futher Applications of Integration
+Arc Length
+Area of a Surface Revolution
+Probability
+
+C.9 Differential Equations
+Modeling with Differential Equations
+Direction Fields and Euler's Method
+Separable Equations 
+Models for Population Growth
+Linear Equations
+Predator-Prey Systems
+
+C.10 Parametric Equations and Polar Coordinate 
+Curves Defined by Parametric Equations 
+Laboratory Project - Running Circles around Circles
+Calculus with Parametric Curves 
+Polar Coordinates
+Areas and Lengths in Polar Coordinates
+Conic Sections
+Conic Sections in Polar Coordinates
+
+11. Infinite Sequences and Series
+Sequences
+Laboratory Project - Logistic Sequences
+The Integral Test and Estimates of Sums
+The Comparison Tests
+Alternating Series
+Absolute Convergence and the Ratio and Root Tests
+Strategy for Testing Series
+Power Series
+Representations of Functions as Power Series
+Taylor and Maclaurin Series
+Applications of Taylor Polynomials
+
+12. Vectors and the Geometry of Space
+Three-Dimensional Coordinate Systems
+Vectors 
+The Dot Product
+The Cross Product
+Equations of Lines and Planes
+Cylinders and Quadric Surfaces
+
+13. Vector Functions
+Vector Functions and Space Curves
+Derivatives and Integrals of Vector Functions
+Arc Length and Curvature
+Motion in Space: Velocity and Acceleration
+
+14. Partial Derivatives
+Functions of Several Variables
+Limits and Continuity
+Partial Derivatives
+Tangent Planes and Linear Approximations
+The Chain Rule
+Directional Derivatives and the Gradient Vecto
+Maximum and Minimum Values
+Applied Project - Designing a Dumpster
+Discovery Project - Quadratic Approximations and Critical Points
+Lagrange Multipliers
+
+15. Multiple Integrals
+Double Integrals over Rectangles
+Iterated Integrals
+Double Integrals over General Regions
+Double Integrals in Polar Coordinates
+Applications of Double Integrals 
+Surface Area
+Triple Integrals
+Triple Integrals in Cylindrical Coordinates
+Triple Integrals in Spherical Coordinates
+Change of Variables in Multiple Integrals
+
+16. Vector Calculus
+Vector Fields
+Line Integrals
+The Fundamental Theorem for Line Integrals 
+Green's Theorem 
+Curl and Divergence 
+Parametric Surfaces and Their Areas
+Surface Integrals
+Stokes' Theorem
+The Divergence Theorem 
+
+17. Second-Order Differential Equations
+Second-Order Linear Equations
+Nonhomogeneous Linear Equations
+Applications of Second-Order Differential Equations
+Series Solutions
