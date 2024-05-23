@@ -1,0 +1,56 @@
+Linear Algebra
+Linear Algebra with Applications by Leon 5th Edition
+
+1 Matrices and Systems of Equations
+Systems of Linear Equations
+Row Echelon Form
+Matrix Arithmetic
+Matrix Algebra
+Elementary Matrices
+Partitioned Matrices
+
+2 Determinants
+The Determinant of a Matrix
+Properties of Determinants
+Additional Topics and Applications
+
+3 Vector Spaces
+Definition and Examples
+Subspaces
+Linear Independence
+Basis and Dimension
+Change of Basis
+Row Space and Column Space
+
+4 Linear Transformations
+Definition and Examples
+Matrix Representations of Linear Transformations
+Similarity
+
+5 Orthogonality
+The Scalar Product in R
+Orthogonal Subspaces
+Least Squares Problems
+Inner Product Spaces
+Orthonormal Sets
+The Gram-Schmidt Orthogonalization Process
+Orthogonal Polynomials
+
+6 Eigenvalues
+Eigenvalues and Eigenvectors
+Systems of Linear Differential Equations
+Diagonalization
+Hermitian Matrices
+The Singular Value Decomposition
+Quadratic Forms
+Positive Definite Matrices
+Nonnegative Matrices
+
+7 Numerical Linear Algebra
+Floating-Point Numbers
+Gaussian Elimination
+Pivoting Strategies
+Matrix Norms and Condition Numbers
+Orthogonal Transformations
+The Eigenvalue Problem
+Least Squares Problems
