@@ -6,26 +6,119 @@ Grade school Math
 	+ Simple addition and subtraction
 	+ Simple division
 	+ Simplfy fractions
+        
+	- 1-digit multiplication
+        - Distributive property
+        - 1-digit division
+        - Simplify fractions
+        - Adding and Subtraction with small and large numbers
+        - 2-digit multiplication & division
+        - Divide with remainder
+        - Add and subtract fractions (same and different denominators)
+        - Multiply fractions
+        - Convert fractions to decimals
+        - Add and subtract decimals
+        - 4-digit multiplication & division
+        - divide fractions
+        - multiple and divide decimals
+        - Simple exponents and powers of ten
+        - Add and subtract negative numbers
+        - Multiply and divide negative numbers
+        - Negative decimals and fractions
+
 Algebra
 	+ Solve for a varible
 	+ Factorization
 	+ System of equations
+
+	- Absolute value
+	- Square roots
+	- Area of triangles
+	- Circumference and area of circles
+	- Combining like terms
+	- Simplify expression of a single variable
+	- Simplify nested fractions
+	- Solve single varible equalities and inequalities 
+	- Find slope and intercept of a line
+	- Solve a system of two equations
+	- Find roots of polynomials
+	- Foil roots
+	- Solve for x with imaginary numbers
+	- Domain and range of y
+	- Factoring higher degree polynomials
+	- Solve fractional exponents
+	- Simplifying logarithms
+	- Change of base for logarithms
+
+Geometry
+	- Reflection of points
+	- Translation of points
+	- Rotation of points
+	- Find Trianlge area from indicies
+	- Find Trianlge side lengths from indicies
+	- Find Trianlge interior angles from indicies
+	- Find Trianlge preimeter from indicies
+	- Find the missing side of a right triangle
+	- Find triangle interior angles from side lengths
+	- Solve Sin, Cos, equations (Find triangle interior angles)
+	- Find Distance and midpoints
+	- Find circle properties from equation
+	- Volume/SA of a sphere
+	- Volume/SA of a cube
+	- Volume/SA of a cubiod
+	- Volume/SA of a cylinder
+	- Find arc length
+
 Pre-Calc
 	- Complex numbers
 	- Trig functions
 	- Inverse functions
+
+	- Simplifying compositions of inverse functions
+	- What is the inverse of ?
+	- Law of sines
+	- Law of cosines
+	- Sinusoidal equations
+	- Using trigonometric identities
+	- Distance and midpoint of complex numbers
+	- Modulus (absolute value) and argument (angle) of complex numbers
+	- Discontinuities of rational functions
+	- End behavior of rational functions
+	- Center and radii of an ellipse
+	- Foci of an ellipse
+	- Foci of a hyperbola
+	- Magnitude of vectors
+	- Scalar multiplication of vectors
+	- Vector addition and subtraction
+	- Vector components from magnitude and direction
+	- Multiplying matrices by scalars
+	- Adding and subtracting matrices
+	- Matrices as transformations of the plane
+	- Multiplying matrices by vectors
+	- Multiplying matrices by matrices
+	- Finding inverses of 2x2 matrices
+	- Solving linear systems with matrices (3 variables)
+	- probability of x die getting some value
+	- probability of x coins getting some value of heads/tails
+	- Infinite converging series
+	- Determine is series converages
+	- Find the limit of simple expressions (0, inf, -inf, const)
+	- Find points of discontinuity 
+
 Calc 1&2
 	- limits
 	+ Derivatives
 	- Chain rule
 	+ Integration
 	- Series
+
 Calc 3
 	- Partial Derivative
 	- Multiple integrals
 	- Multivariable integrals
 	- Dot product
 	- Cross product
+
 Linear Algebra
 	- Eigenvalues and vectors
 	- Determinants
@@ -35,5 +128,6 @@ Linear Algebra
 	- Matrix inversion
 	- Orthogonal Matricies
 	- Matrix multiplication
+
 probability (grade school level)
 
