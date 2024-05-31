@@ -28,6 +28,8 @@ the definite integral
 indefinite integrals
 substituion rule
 
+-----------------------------------------------------------------------
+
 C.6 Applications of Integration
 Areas between curves
 Volumes
@@ -78,6 +80,8 @@ Power Series
 Representations of Functions as Power Series
 Taylor and Maclaurin Series
 Applications of Taylor Polynomials
+
+-----------------------------------------------------------------------
 
 12. Vectors and the Geometry of Space
 Three-Dimensional Coordinate Systems

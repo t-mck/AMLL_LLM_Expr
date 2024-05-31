@@ -112,12 +112,52 @@ Calc 1&2
 	+ Integration
 	- Series
 
+	- Derivatives of polynomial
+	- Derivatives, product and quotient rule
+	- Derivatives of trigonmetric functions
+	- Derivatives of log functions
+	- Roots of an equation (max / min)
+	- l'Hospital's Rule
+	- Definite integral of polynomials
+	- Indefinite integral of polynomials
+	- Definite integral of trigonemtic functions
+	- Indefinite integral of trigonemtic functions
+	- Integration by parts
+	- Differential Equations (First order)
+	- Differential Equations (Euler method)
+	- Integration in polar coordinates
+	- Power series
+	- Alternating Series
+	- Taylor polynomial (Simple)
+	- Taylor polynomial (Complex)
+
 Calc 3
 	- Partial Derivative
 	- Multiple integrals
 	- Multivariable integrals
 	- Dot product
 	- Cross product
+
+	- Dot product
+	- Cross product
+	- Find line through points
+	- Find line parallel to vector
+	- Find plane defined by lines
+	- Find lines normal to a plane
+	- Derivatives and Integrals of Vector Functions
+	- Partial derivatives
+	- Directional Derivatives and the Gradient Vector
+	- Lagrange Multipliers
+	- Double Integrals (Simple)
+	- Double Integrals in Polar Coordinates
+	- Triple Integrals
+	- Triple Integrals in Cylindrical Coordinates
+	- Triple Integrals in Spherical Coordinates
+	- Line Integrals (curve integral)
+	- Curl 
+	- Divergence
+	- Surface Integrals
+	- Differential Equations (Second order)
 
 Linear Algebra
 	- Eigenvalues and vectors
@@ -129,5 +169,44 @@ Linear Algebra
 	- Orthogonal Matricies
 	- Matrix multiplication
 
-probability (grade school level)
+	- Systems of Linear Equations
+	- Matrix equivalence 
+	- Transpose matricies
+	- Scalar mulitplication
+	- Multiplying matricies
+	- The Determinant of a Matrix
+	- The Trace of a matrix
+	- Basis and Dimension
+	- Matrix Representations of Linear Transformations
+	- Orthogonal basis
+	- Eigenvalues and Eigenvectors
+	- Diagonalization
+	- The Singular Value Decomposition
+	- Positive Definite Matrices (True / False)
+	- Symmetric positive definite matrix
+	- Cholesky decomposition (symmetric positive definite matrix) 
+	- Systems of Linear Differential Equations
+	- Orthogonal diagonalization
+
+
+Probability and Statistics
+	- Mean and median
+	- First moment of a population
+	- Second moment of a population
+	- Third moment of a population
+	- Correlation coefficients
+	- R-value
+	- Percentiles
+	- Probability of x die getting some value
+	- Probability of x coins getting some value of heads/tails
+	- Probability of selecting combinations of colored marbles (Easy)
+	- Probability of selecting combinations of colored marbles (Medium)
+	- Probability of selecting combinations of colored marbles (Hard)
+	- Repersenting data as a normal distribution
+	- Permutations
+	- Combinations
+	- Expected value of random variables
+	- P-value test
+	- Chi-square goodness-of-fit tests
+	- Analysis of variance (ANOVA)
 
