@@ -40,3 +40,8 @@ Thumbs.db
 ###############
 *.pyc
 *.cpython-38.pyc
+
+# secrets #
+###############
+*api.yaml
+MATH_grader.py
