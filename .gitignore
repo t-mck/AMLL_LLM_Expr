@@ -43,5 +43,5 @@ Thumbs.db
 
 # secrets #
 ###############
-*api.yaml
+gemini-tools/gemini-api.yaml
 MATH_grader.py
